@@ -21,8 +21,8 @@
 #import "NSBundle+JSQMessages.h"
 
 
-static NSString * const kJSQMessageReceivedSoundName = @"Chirp";
-static NSString * const kJSQMessageSentSoundName = @"Chirp";
+static NSString * const kJSQMessageReceivedSoundName = @"Tick";
+static NSString * const kJSQMessageSentSoundName = @"Tick";
 
 
 @implementation JSQSystemSoundPlayer (JSQMessages)
